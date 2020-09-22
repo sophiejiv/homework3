@@ -81,7 +81,7 @@ tr:nth-child(even){
 }
 
 tr:hover{
-  background-color: rgb(126,8,48.25);
+  background-color: rgb(126,8,48,.25);
 }
 
 *:focus{
