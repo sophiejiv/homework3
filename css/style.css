@@ -55,12 +55,12 @@ table{
 
 
 .colhead{
-  background-color: #7e0830;
-  color: #FFFFFF;
   padding: 10px;
   min-width: 125px;
   text-align: center;
   text-transform: uppercase;
+  background-color: #7e0830;
+  color: #FFFFFF;
 }
 
 .rowhead{
