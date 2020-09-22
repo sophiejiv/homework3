@@ -58,8 +58,9 @@ table{
   padding: 10px;
   min-width: 125px;
   text-align: center;
+  vertical-align: middle;
   text-transform: uppercase;
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
 }
 
